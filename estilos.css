@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?família=Roboto&display=swap');
+
+.contentor1{
+    border: 1px solid rgb(255, 0, 0);
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+    color: whitesmoke ;
+    background-color: rgba(119, 136, 153, 0.425);
+}
+
+#link{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    height: 50px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 20px;
+}
+.card{
+    margin-top:20px;
+}
+  
+.teste-carrocel{
+background-color: grey;
+height: 200px;
+width: 100%;
+}
+
+button.btn-primary{
+    background-color: yellowgreen;
+    border: none;
+}
+h4.border-primary{
+    background-color: yellowgreen;
+}
